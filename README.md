@@ -19,7 +19,7 @@
 
 <h3>1️⃣ Navigate to Project Directory</h3>
 <pre>
-cd "DRF_Auth&ToDo"
+cd "ToDo_Api-With-DRF-Auth"
 </pre>
 
 <h3>2️⃣ Create Virtual Environment</h3>
